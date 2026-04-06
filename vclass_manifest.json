@@ -1,589 +1,584 @@
 {
-  "version": "20260327124911",
-  "serverIp": "mc.cspack.online",
+  "version": "20260406102806",
+  "serverIp": "100.113.51.97",
   "mcVersion": "1.21.11",
   "modLoader": "Fabric",
-  "loaderVersion": "0.18.4",
+  "loaderVersion": "0.18.6",
   "files": [
     {
-      "path": "animal_feeding_trough-1.2.0\u002B1.21.11.jar",
+      "path": "mods/animal_feeding_trough-1.2.0\u002B1.21.11.jar",
       "hash": "6213c759066acb793e23151f95649e734be4207f",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/animal_feeding_trough-1.2.0\u002B1.21.11.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/animal_feeding_trough-1.2.0\u002B1.21.11.jar"
     },
     {
-      "path": "animated-logo-2.0.jar",
+      "path": "mods/animated-logo-2.0.jar.disabled",
       "hash": "07bd66e66cf9526737097e90234afef49e399752",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/animated-logo-2.0.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/animated-logo-2.0.jar.disabled"
     },
     {
-      "path": "architectury-19.0.1-fabric.jar",
+      "path": "mods/architectury-19.0.1-fabric.jar",
       "hash": "2d40563f7e36f7a03f094031aeaacb175117928e",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/architectury-19.0.1-fabric.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/architectury-19.0.1-fabric.jar"
     },
     {
-      "path": "atmospherics-2.0.jar",
-      "hash": "b78271975114b622c876821ae2139e6fa606db9e",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/atmospherics-2.0.jar"
+      "path": "mods/atmospherics-2.5.5-mc-1.21.11.jar",
+      "hash": "47e23977aa58a6ac69c523411d47cae7671c2f5d",
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/atmospherics-2.5.5-mc-1.21.11.jar"
     },
     {
-      "path": "bbe-1.3.0\u002B1.21.11.jar",
+      "path": "mods/bbe-1.3.0\u002B1.21.11.jar",
       "hash": "5183aaa17cfa49d8ddef2ce9fb77827929f07dc9",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/bbe-1.3.0\u002B1.21.11.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/bbe-1.3.0\u002B1.21.11.jar"
     },
     {
-      "path": "betterdays-1.21.11-fabric-3.3.6.3-FABRIC.jar",
+      "path": "mods/betterdays-1.21.11-fabric-3.3.6.3-FABRIC.jar",
       "hash": "74a1b0c777a7de1f844fa03053ebc967cb6d1c4f",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/betterdays-1.21.11-fabric-3.3.6.3-FABRIC.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/betterdays-1.21.11-fabric-3.3.6.3-FABRIC.jar"
     },
     {
-      "path": "BetterF3-17.0.0-Fabric-1.21.11.jar",
+      "path": "mods/BetterF3-17.0.0-Fabric-1.21.11.jar",
       "hash": "e1c57a6377d12d6d26c039d317eec00ae7f08e2b",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/BetterF3-17.0.0-Fabric-1.21.11.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/BetterF3-17.0.0-Fabric-1.21.11.jar"
     },
     {
-      "path": "betterstats-5.0.0\u002Bfabric-1.21.11.jar",
-      "hash": "be834cc1cdf60c17f6488f1e11928f4b1889bd7a",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/betterstats-5.0.0\u002Bfabric-1.21.11.jar"
+      "path": "mods/betterstats-5.1.0\u002Bfabric-1.21.11.jar",
+      "hash": "fd86b5ee833a53ecdbdef19783761b552d29616c",
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/betterstats-5.1.0\u002Bfabric-1.21.11.jar"
     },
     {
-      "path": "boatiview-fabric-0.0.8-1.21.11.jar",
+      "path": "mods/boatiview-fabric-0.0.8-1.21.11.jar",
       "hash": "127307fef38f9e99b014f4ad7eb39031e00eb4c7",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/boatiview-fabric-0.0.8-1.21.11.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/boatiview-fabric-0.0.8-1.21.11.jar"
     },
     {
-      "path": "c2me-fabric-mc1.21.11-0.3.7\u002Balpha.0.9.jar",
+      "path": "mods/c2me-fabric-mc1.21.11-0.3.7\u002Balpha.0.9.jar",
       "hash": "8ba48c81c03c5287b7dd1e39e66603c64a1bf3a0",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/c2me-fabric-mc1.21.11-0.3.7\u002Balpha.0.9.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/c2me-fabric-mc1.21.11-0.3.7\u002Balpha.0.9.jar"
     },
     {
-      "path": "capes-1.5.10\u002B1.21.11-fabric.jar",
+      "path": "mods/capes-1.5.10\u002B1.21.11-fabric.jar",
       "hash": "8fcdc9940621070ebfb2cb387beae142fa8b42d4",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/capes-1.5.10\u002B1.21.11-fabric.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/capes-1.5.10\u002B1.21.11-fabric.jar"
     },
     {
-      "path": "carryon-fabric-1.21.11-2.9.0.jar",
+      "path": "mods/carryon-fabric-1.21.11-2.9.0.jar",
       "hash": "8ae93967a302ab5a036655f8bba469bbfcf817a5",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/carryon-fabric-1.21.11-2.9.0.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/carryon-fabric-1.21.11-2.9.0.jar"
     },
     {
-      "path": "chatanimation-fabric-1.21.11-1.1.3.jar",
+      "path": "mods/chatanimation-fabric-1.21.11-1.1.3.jar",
       "hash": "b6ef489a24c2a8cb3db90e8b8d924d17c8b45c9f",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/chatanimation-fabric-1.21.11-1.1.3.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/chatanimation-fabric-1.21.11-1.1.3.jar"
     },
     {
-      "path": "chat_heads-1.2.1-fabric-1.21.11.jar",
+      "path": "mods/chat_heads-1.2.1-fabric-1.21.11.jar",
       "hash": "17ba8126f1953fc9eb059ca8c82b5b72b3f907d3",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/chat_heads-1.2.1-fabric-1.21.11.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/chat_heads-1.2.1-fabric-1.21.11.jar"
     },
     {
-      "path": "Chunky-Fabric-1.4.55.jar",
+      "path": "mods/Chunky-Fabric-1.4.55.jar",
       "hash": "19c34a23a5c1b2f6c73117b8eb4524b521e1926b",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/Chunky-Fabric-1.4.55.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/Chunky-Fabric-1.4.55.jar"
     },
     {
-      "path": "cicada-lib-0.14.3\u002B1.21.9-1.21.10.jar",
+      "path": "mods/cicada-lib-0.14.3\u002B1.21.9-1.21.10.jar",
       "hash": "5df55ab2733c3bb729a9ea87fef8a4d26c2a57d1",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/cicada-lib-0.14.3\u002B1.21.9-1.21.10.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/cicada-lib-0.14.3\u002B1.21.9-1.21.10.jar"
     },
     {
-      "path": "clickthrough-plus-3.6.1\u002B1.21.11-fabric.jar",
+      "path": "mods/clickthrough-plus-3.6.1\u002B1.21.11-fabric.jar",
       "hash": "209cbd18f57fa2f0abfd9c945b99468648228798",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/clickthrough-plus-3.6.1\u002B1.21.11-fabric.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/clickthrough-plus-3.6.1\u002B1.21.11-fabric.jar"
     },
     {
-      "path": "cloth-config-21.11.153-fabric.jar",
+      "path": "mods/cloth-config-21.11.153-fabric.jar",
       "hash": "4c224606a963bce223db5b27edb4959ecf40d4ee",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/cloth-config-21.11.153-fabric.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/cloth-config-21.11.153-fabric.jar"
     },
     {
-      "path": "Clumps-fabric-1.21.11-29.0.0.1.jar",
+      "path": "mods/Clumps-fabric-1.21.11-29.0.0.1.jar",
       "hash": "626fde9e970030cfc8cb64cd0a1abfc03d37ecc2",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/Clumps-fabric-1.21.11-29.0.0.1.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/Clumps-fabric-1.21.11-29.0.0.1.jar"
     },
     {
-      "path": "collective-1.21.11-8.13.jar",
+      "path": "mods/collective-1.21.11-8.13.jar",
       "hash": "3489d194119cede1725f5853027f7c35639d8ddc",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/collective-1.21.11-8.13.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/collective-1.21.11-8.13.jar"
     },
     {
-      "path": "connectiblechains-2.5.7\u002B1.21.11.jar",
+      "path": "mods/connectiblechains-2.5.7\u002B1.21.11.jar",
       "hash": "96060ba4ae38dbe44f2e2671634dbc612569c271",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/connectiblechains-2.5.7\u002B1.21.11.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/connectiblechains-2.5.7\u002B1.21.11.jar"
     },
     {
-      "path": "continuity-3.0.1-beta.1\u002B1.21.11.jar",
+      "path": "mods/continuity-3.0.1-beta.1\u002B1.21.11.jar",
       "hash": "51d34c3f2035db0c7fca321b2d94f01b5167707c",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/continuity-3.0.1-beta.1\u002B1.21.11.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/continuity-3.0.1-beta.1\u002B1.21.11.jar"
     },
     {
-      "path": "crawl-mc1.21.11-fabric-0.15.0.jar",
+      "path": "mods/crawl-mc1.21.11-fabric-0.15.0.jar",
       "hash": "188e87b446fdad33748a71d72b6b6f1d9a4f8afd",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/crawl-mc1.21.11-fabric-0.15.0.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/crawl-mc1.21.11-fabric-0.15.0.jar"
     },
     {
-      "path": "CreativeCore_FABRIC_v2.14.11_mc1.21.11.jar",
+      "path": "mods/CreativeCore_FABRIC_v2.14.11_mc1.21.11.jar",
       "hash": "45720c9f59c67bcceddf062d21aec743a94856c4",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/CreativeCore_FABRIC_v2.14.11_mc1.21.11.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/CreativeCore_FABRIC_v2.14.11_mc1.21.11.jar"
     },
     {
-      "path": "cristellib-fabric-1.21.11-3.0.4.jar",
-      "hash": "6b535f989b04a86ef9bf36c5ab421cd772d12e7f",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/cristellib-fabric-1.21.11-3.0.4.jar"
+      "path": "mods/cristellib-fabric-1.21.11-3.1.2.jar",
+      "hash": "f45d16776277a09c34bf49bcc6c4b9582aa1350a",
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/cristellib-fabric-1.21.11-3.1.2.jar"
     },
     {
-      "path": "day-counter-1.3\u002Bfabric-mc1.21.9-1.21.11.jar",
+      "path": "mods/day-counter-1.3\u002Bfabric-mc1.21.9-1.21.11.jar",
       "hash": "5baa38ca61f13dbb32391775406031d9d73c7136",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/day-counter-1.3\u002Bfabric-mc1.21.9-1.21.11.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/day-counter-1.3\u002Bfabric-mc1.21.9-1.21.11.jar"
     },
     {
-      "path": "doubledoors-1.21.11-7.2.jar",
+      "path": "mods/doubledoors-1.21.11-7.2.jar",
       "hash": "941050bf7cd6eb1950b5329d34536a5b91cc5a55",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/doubledoors-1.21.11-7.2.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/doubledoors-1.21.11-7.2.jar"
     },
     {
-      "path": "do_a_barrel_roll-fabric-3.8.3\u002B1.21.11.jar",
+      "path": "mods/do_a_barrel_roll-fabric-3.8.3\u002B1.21.11.jar",
       "hash": "ab0719761474257b10a505f11cf68fe6ebd28440",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/do_a_barrel_roll-fabric-3.8.3\u002B1.21.11.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/do_a_barrel_roll-fabric-3.8.3\u002B1.21.11.jar"
     },
     {
-      "path": "dungeons-and-taverns-v5.1.0.jar",
+      "path": "mods/dungeons-and-taverns-v5.1.0.jar",
       "hash": "09cca41971985fb9e137186bee6f4e23ec42a8f0",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/dungeons-and-taverns-v5.1.0.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/dungeons-and-taverns-v5.1.0.jar"
     },
     {
-      "path": "dynamiccrosshair-9.11\u002B1.21.11-fabric.jar",
+      "path": "mods/dynamiccrosshair-9.11\u002B1.21.11-fabric.jar",
       "hash": "c0a65e9693354dd6308c158f8a0873ee397da1ca",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/dynamiccrosshair-9.11\u002B1.21.11-fabric.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/dynamiccrosshair-9.11\u002B1.21.11-fabric.jar"
     },
     {
-      "path": "entityculling-fabric-1.9.5-mc1.21.11.jar",
-      "hash": "e2e88c0b2286148e9547eb23d95d2e30e60ad753",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/entityculling-fabric-1.9.5-mc1.21.11.jar"
+      "path": "mods/entityculling-fabric-1.10.0-mc1.21.11.jar",
+      "hash": "1d0370bf2f6fc68d7d5c448ae391ae8248a5e817",
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/entityculling-fabric-1.10.0-mc1.21.11.jar"
     },
     {
-      "path": "fabric-api-0.141.3\u002B1.21.11.jar",
+      "path": "mods/entity_model_features_1.21.11-fabric-3.0.17.jar",
+      "hash": "3a2b5fcb1223f275aaeb7df9de68407833a252c5",
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/entity_model_features_1.21.11-fabric-3.0.17.jar"
+    },
+    {
+      "path": "mods/entity_texture_features_1.21.11-fabric-7.0.13.jar",
+      "hash": "81ac129e88c80e6ee95115fe89fabf06db338600",
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/entity_texture_features_1.21.11-fabric-7.0.13.jar"
+    },
+    {
+      "path": "mods/fabric-api-0.141.3\u002B1.21.11.jar",
       "hash": "50de67eb221f0b38216da8668b09ca311327040e",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/fabric-api-0.141.3\u002B1.21.11.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/fabric-api-0.141.3\u002B1.21.11.jar"
     },
     {
-      "path": "fabric-language-kotlin-1.13.9\u002Bkotlin.2.3.10.jar",
-      "hash": "20b2200961e11994595ebb2d5f6624f232d13751",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/fabric-language-kotlin-1.13.9\u002Bkotlin.2.3.10.jar"
+      "path": "mods/fabric-language-kotlin-1.13.10\u002Bkotlin.2.3.20.jar",
+      "hash": "9873294abf498f509453d37b0a5ba019f4570ffb",
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/fabric-language-kotlin-1.13.10\u002Bkotlin.2.3.20.jar"
     },
     {
-      "path": "fast-ip-ping-v1.0.8-mc1.21.11-fabric.jar",
+      "path": "mods/fast-ip-ping-v1.0.8-mc1.21.11-fabric.jar",
       "hash": "451daa1da7470dea8c1de97708e009f840f3130d",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/fast-ip-ping-v1.0.8-mc1.21.11-fabric.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/fast-ip-ping-v1.0.8-mc1.21.11-fabric.jar"
     },
     {
-      "path": "ferritecore-8.2.0-fabric.jar",
+      "path": "mods/ferritecore-8.2.0-fabric.jar",
       "hash": "c2e2f5e008f5bc9f401dfad8ca94909917006b65",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/ferritecore-8.2.0-fabric.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/ferritecore-8.2.0-fabric.jar"
     },
     {
-      "path": "ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar",
+      "path": "mods/ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar",
       "hash": "61aa1b5fafd75afc44552d0213cac39bc938bc2d",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar"
     },
     {
-      "path": "fzzy_config-0.7.6\u002B1.21.11.jar",
+      "path": "mods/fzzy_config-0.7.6\u002B1.21.11.jar",
       "hash": "9b064c8bd1d6414549f6a1adcadf678ffa0c96c8",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/fzzy_config-0.7.6\u002B1.21.11.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/fzzy_config-0.7.6\u002B1.21.11.jar"
     },
     {
-      "path": "GlitchCore-fabric-1.21.11-21.11.0.4.jar",
+      "path": "mods/GlitchCore-fabric-1.21.11-21.11.0.4.jar",
       "hash": "5c3d6333ff8c50d4b5c16c9185e020d8afcb4988",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/GlitchCore-fabric-1.21.11-21.11.0.4.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/GlitchCore-fabric-1.21.11-21.11.0.4.jar"
     },
     {
-      "path": "graves-3.10.2\u002B1.21.11.jar",
+      "path": "mods/Gnetum-4.3.0\u002B1.21.11-fabric.jar",
+      "hash": "602b23bd1e322b84c0d0c0f4e221968d0bd04cd4",
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/Gnetum-4.3.0\u002B1.21.11-fabric.jar"
+    },
+    {
+      "path": "mods/graves-3.10.2\u002B1.21.11.jar",
       "hash": "257d9a314095456301a1a6a888d43d19c8435f1c",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/graves-3.10.2\u002B1.21.11.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/graves-3.10.2\u002B1.21.11.jar"
     },
     {
-      "path": "ImmediatelyFast-Fabric-1.14.2\u002B1.21.11.jar",
+      "path": "mods/ImmediatelyFast-Fabric-1.14.2\u002B1.21.11.jar",
       "hash": "4f17c6b7388f0afc5d24075dc2a294963f78c712",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/ImmediatelyFast-Fabric-1.14.2\u002B1.21.11.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/ImmediatelyFast-Fabric-1.14.2\u002B1.21.11.jar"
     },
     {
-      "path": "ImmersiveUI-FABRIC-0.3.6\u002B1.21.11.jar",
+      "path": "mods/ImmersiveUI-FABRIC-0.3.6\u002B1.21.11.jar",
       "hash": "147ebf8a706b99241d476c8c5330f2633cc0a288",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/ImmersiveUI-FABRIC-0.3.6\u002B1.21.11.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/ImmersiveUI-FABRIC-0.3.6\u002B1.21.11.jar"
     },
     {
-      "path": "inferno-1.21.11-r5.jar",
+      "path": "mods/inferno-1.21.11-r5.jar",
       "hash": "3445242a71c72f8d64be9e5624b295e5a452d80a",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/inferno-1.21.11-r5.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/inferno-1.21.11-r5.jar"
     },
     {
-      "path": "infinitetrading-1.21.11-4.6.jar",
+      "path": "mods/infinitetrading-1.21.11-4.6.jar",
       "hash": "f55a5296d927eb34731dc0469f5a5af92dd47027",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/infinitetrading-1.21.11-4.6.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/infinitetrading-1.21.11-4.6.jar"
     },
     {
-      "path": "InventoryProfilesNext-fabric-1.21.11-2.2.4.jar",
-      "hash": "60931b94f84a0e097a3f135a66fce6f92fcb6c04",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/InventoryProfilesNext-fabric-1.21.11-2.2.4.jar"
+      "path": "mods/InventoryProfilesNext-fabric-1.21.11-2.2.6.jar",
+      "hash": "0abb512cdd1cd8ea473c13a809b44a993ab05f51",
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/InventoryProfilesNext-fabric-1.21.11-2.2.6.jar"
     },
     {
-      "path": "InvMove-0.9.3\u002B1.21.11-Fabric.jar",
+      "path": "mods/InvMove-0.9.3\u002B1.21.11-Fabric.jar",
       "hash": "59242afca6f458ff0cb1882900869f01bba4e1bc",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/InvMove-0.9.3\u002B1.21.11-Fabric.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/InvMove-0.9.3\u002B1.21.11-Fabric.jar"
     },
     {
-      "path": "iris-fabric-1.10.6\u002Bmc1.21.11.jar",
-      "hash": "9a4dd8518bbad9e6be9edd443cfc6da74b1bb26b",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/iris-fabric-1.10.6\u002Bmc1.21.11.jar"
+      "path": "mods/iris-fabric-1.10.7\u002Bmc1.21.11.jar",
+      "hash": "aae8567bd9ea397d50aff1d0b680a82ffe67040c",
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/iris-fabric-1.10.7\u002Bmc1.21.11.jar"
     },
     {
-      "path": "ItemPhysicLite_FABRIC_v1.6.11_mc1.21.11.jar",
+      "path": "mods/ItemPhysicLite_FABRIC_v1.6.11_mc1.21.11.jar",
       "hash": "ab7973e1e45d09ec4e4109a32e6aaec3179c6204",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/ItemPhysicLite_FABRIC_v1.6.11_mc1.21.11.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/ItemPhysicLite_FABRIC_v1.6.11_mc1.21.11.jar"
     },
     {
-      "path": "Ixeris-4.1.3\u002B1.21.11-fabric.jar",
-      "hash": "74d65113cd37971487b31753a7d8b0ec4fd25237",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/Ixeris-4.1.3\u002B1.21.11-fabric.jar"
+      "path": "mods/Ixeris-4.1.8\u002B1.21.11-fabric.jar",
+      "hash": "a4bc219f61a33bc18b038cbebd8da0f7d7a0056c",
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/Ixeris-4.1.8\u002B1.21.11-fabric.jar"
     },
     {
-      "path": "Jade-1.21.11-Fabric-21.1.4.jar",
+      "path": "mods/Jade-1.21.11-Fabric-21.1.4.jar",
       "hash": "1b96ade56458216e15338c5eb7526e0e730c3eb2",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/Jade-1.21.11-Fabric-21.1.4.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/Jade-1.21.11-Fabric-21.1.4.jar"
     },
     {
-      "path": "jamlib-fabric-1.3.6\u002B1.21.11.jar",
+      "path": "mods/jamlib-fabric-1.3.6\u002B1.21.11.jar",
       "hash": "db4445e7668b55747e75d9c8e5073d2734a73180",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/jamlib-fabric-1.3.6\u002B1.21.11.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/jamlib-fabric-1.3.6\u002B1.21.11.jar"
     },
     {
-      "path": "jei-1.21.11-fabric-27.4.0.17.jar",
-      "hash": "09c10ef6913d74f6b3bbbe1b8739d300121bddf4",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/jei-1.21.11-fabric-27.4.0.17.jar"
+      "path": "mods/jei-1.21.11-fabric-27.4.0.22.jar",
+      "hash": "dba6319ab4cad596d74f520ae608a5cae84ba245",
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/jei-1.21.11-fabric-27.4.0.22.jar"
     },
     {
-      "path": "ketkets-displaycases-0.1.jar",
+      "path": "mods/ketkets-displaycases-0.1.jar",
       "hash": "e453150996c2e5277ca091c2f19749e003bf5779",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/ketkets-displaycases-0.1.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/ketkets-displaycases-0.1.jar"
     },
     {
-      "path": "lambdynamiclights-4.9.1\u002B1.21.11.jar",
+      "path": "mods/lambdynamiclights-4.9.1\u002B1.21.11.jar",
       "hash": "f22487846158f62b3485a5a0723ba048326ac00f",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/lambdynamiclights-4.9.1\u002B1.21.11.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/lambdynamiclights-4.9.1\u002B1.21.11.jar"
     },
     {
-      "path": "leash-fences-v1.1.0-mc1.21.6\u002B.jar",
-      "hash": "4c103e237e4b2eb313aeccb5c7dc6cf9b89f1244",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/leash-fences-v1.1.0-mc1.21.6\u002B.jar"
+      "path": "mods/leash-fences-v1.1.1.1.jar",
+      "hash": "a524682f9311bcbdca93df1865ddcd722c919d04",
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/leash-fences-v1.1.1.1.jar"
     },
     {
-      "path": "libIPN-fabric-1.21.11-6.6.2.jar",
-      "hash": "bf7764431b252d2de415cb5c017d9645873b008e",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/libIPN-fabric-1.21.11-6.6.2.jar"
+      "path": "mods/libIPN-fabric-1.21.11-6.6.3.jar",
+      "hash": "e4fd1f06b1e717be8545fc9769422fb964c33df4",
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/libIPN-fabric-1.21.11-6.6.3.jar"
     },
     {
-      "path": "litematica-fabric-1.21.11-0.26.2.jar",
-      "hash": "03861b97c423016c6a0304f120f632add7940ffb",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/litematica-fabric-1.21.11-0.26.2.jar"
+      "path": "mods/litematica-fabric-1.21.11-0.26.3.jar",
+      "hash": "321ab263a3638d32f07c07a036f80c5cb2f5d130",
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/litematica-fabric-1.21.11-0.26.3.jar"
     },
     {
-      "path": "lithium-fabric-0.21.4\u002Bmc1.21.11.jar",
+      "path": "mods/lithium-fabric-0.21.4\u002Bmc1.21.11.jar",
       "hash": "203bdcb26e97b3217b045e1182651a7d7b6462ec",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/lithium-fabric-0.21.4\u002Bmc1.21.11.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/lithium-fabric-0.21.4\u002Bmc1.21.11.jar"
     },
     {
-      "path": "malilib-fabric-1.21.11-0.27.7.jar",
-      "hash": "81d84f56ba463e91b257c646b719f85326a7a1bb",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/malilib-fabric-1.21.11-0.27.7.jar"
+      "path": "mods/malilib-fabric-1.21.11-0.27.8.jar",
+      "hash": "530f47a9f2e4a3a37ad0f6cc1f730b363a3408c3",
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/malilib-fabric-1.21.11-0.27.8.jar"
     },
     {
-      "path": "medieval_buildings-1.21.X-1.1.2-fabric.jar",
+      "path": "mods/medieval_buildings-1.21.X-1.1.2-fabric.jar",
       "hash": "0e2ca859cbf127bbdd359594ea6fd29eaae5dba0",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/medieval_buildings-1.21.X-1.1.2-fabric.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/medieval_buildings-1.21.X-1.1.2-fabric.jar"
     },
     {
-      "path": "medieval_buildings_end_edition-1.21.X-1.0.5-fabric.jar",
+      "path": "mods/medieval_buildings_end_edition-1.21.X-1.0.5-fabric.jar",
       "hash": "f860cdd59f01c2bcba0fdda094117a2021ff610a",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/medieval_buildings_end_edition-1.21.X-1.0.5-fabric.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/medieval_buildings_end_edition-1.21.X-1.0.5-fabric.jar"
     },
     {
-      "path": "medieval_buildings_nether_edition-1.21.11-1.0.2-fabric.jar",
+      "path": "mods/medieval_buildings_nether_edition-1.21.11-1.0.2-fabric.jar",
       "hash": "3e508dce8321959f6bf584f25a613919c616402d",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/medieval_buildings_nether_edition-1.21.11-1.0.2-fabric.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/medieval_buildings_nether_edition-1.21.11-1.0.2-fabric.jar"
     },
     {
-      "path": "mine-treasure-1.6.2.jar",
-      "hash": "e56d5c0debb02ba32bfcfe67bad8f38a59f41bca",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mine-treasure-1.6.2.jar"
-    },
-    {
-      "path": "modernfix-5.26.2-build.1.jar",
+      "path": "mods/modernfix-5.26.2-build.1.jar",
       "hash": "959efa1690550b4e09616f808d5a5ee52c47477f",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/modernfix-5.26.2-build.1.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/modernfix-5.26.2-build.1.jar"
     },
     {
-      "path": "modmenu-17.0.0-beta.2.jar",
-      "hash": "632c7565ba0fbc033aa4574e1ae6919f277fe03b",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/modmenu-17.0.0-beta.2.jar"
+      "path": "mods/modmenu-17.0.0.jar",
+      "hash": "544a8b340ac3918d85bcc7d02eaff5372814354b",
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/modmenu-17.0.0.jar"
     },
     {
-      "path": "MoogsEndStructures-1.21-2.0.1.jar",
+      "path": "mods/MoogsEndStructures-1.21-2.0.1.jar",
       "hash": "e44787b0d977a27a0367b76a09ba680487334671",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/MoogsEndStructures-1.21-2.0.1.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/MoogsEndStructures-1.21-2.0.1.jar"
     },
     {
-      "path": "MoogsVoyagerStructures-1.21-5.0.5.jar",
+      "path": "mods/MoogsVoyagerStructures-1.21-5.0.5.jar",
       "hash": "6335b4caf8d5f969c948b5a2ce6c675d367a600b",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/MoogsVoyagerStructures-1.21-5.0.5.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/MoogsVoyagerStructures-1.21-5.0.5.jar"
     },
     {
-      "path": "moogs_structure_lib-1.1.0-1.21.11-fabric.jar",
+      "path": "mods/moogs_structure_lib-1.1.0-1.21.11-fabric.jar",
       "hash": "618e79f26e8f9c12ae24a0850b5c1d67ebc1502d",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/moogs_structure_lib-1.1.0-1.21.11-fabric.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/moogs_structure_lib-1.1.0-1.21.11-fabric.jar"
     },
     {
-      "path": "moreculling-fabric-1.21.11-1.6.2.jar",
+      "path": "mods/moreculling-fabric-1.21.11-1.6.2.jar",
       "hash": "11a929de62650cc536244d4c2ba889fa84c1c0f2",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/moreculling-fabric-1.21.11-1.6.2.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/moreculling-fabric-1.21.11-1.6.2.jar"
     },
     {
-      "path": "MouseTweaks-fabric-mc1.21.11-2.30.jar",
-      "hash": "86515de45fe960bd717deea0954055106e857b81",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/MouseTweaks-fabric-mc1.21.11-2.30.jar"
-    },
-    {
-      "path": "moveminecarts-1.21.11-3.8.jar",
+      "path": "mods/moveminecarts-1.21.11-3.8.jar",
       "hash": "180a9de8cf08e4a85fd65c9be345a1bdddf5bf2e",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/moveminecarts-1.21.11-3.8.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/moveminecarts-1.21.11-3.8.jar"
     },
     {
-      "path": "mru-1.0.26\u002Bedge\u002B1.21.11-fabric.jar",
+      "path": "mods/mru-1.0.26\u002Bedge\u002B1.21.11-fabric.jar",
       "hash": "8b4d0803932c2edf6f521feb306bcd01a013a692",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mru-1.0.26\u002Bedge\u002B1.21.11-fabric.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/mru-1.0.26\u002Bedge\u002B1.21.11-fabric.jar"
     },
     {
-      "path": "NoChatReports-FABRIC-1.21.11-v2.18.0.jar",
+      "path": "mods/NoChatReports-FABRIC-1.21.11-v2.18.0.jar",
       "hash": "4e519507bdd81ce2520da33f497a5f12469f5b10",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/NoChatReports-FABRIC-1.21.11-v2.18.0.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/NoChatReports-FABRIC-1.21.11-v2.18.0.jar"
     },
     {
-      "path": "notenoughanimations-fabric-1.11.3-mc1.21.11.jar",
-      "hash": "437a677acd586e5d17a1efc3fad4c07884c985b8",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/notenoughanimations-fabric-1.11.3-mc1.21.11.jar"
+      "path": "mods/notenoughanimations-fabric-1.12.0-mc1.21.11.jar",
+      "hash": "b4d80243d239348c17545bc43aef76d4ca0c3d65",
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/notenoughanimations-fabric-1.12.0-mc1.21.11.jar"
     },
     {
-      "path": "notenoughcrashes-fabric-4.4.9\u002B1.21.11.jar",
+      "path": "mods/notenoughcrashes-fabric-4.4.9\u002B1.21.11.jar",
       "hash": "bd074fca3afb865fd21fccfc491056d1fe2c2e82",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/notenoughcrashes-fabric-4.4.9\u002B1.21.11.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/notenoughcrashes-fabric-4.4.9\u002B1.21.11.jar"
     },
     {
-      "path": "particle_core-0.3.2\u002B1.21.11.jar",
+      "path": "mods/particle_core-0.3.2\u002B1.21.11.jar",
       "hash": "9d5b466bd0eabcf49564c760b9e88d781cbe0feb",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/particle_core-0.3.2\u002B1.21.11.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/particle_core-0.3.2\u002B1.21.11.jar"
     },
     {
-      "path": "particular-1.21.11-Fabric-1.3.2.jar",
+      "path": "mods/particular-1.21.11-Fabric-1.3.2.jar",
       "hash": "6ad860038b9d85586ab675f1f98a002b757aeba9",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/particular-1.21.11-Fabric-1.3.2.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/particular-1.21.11-Fabric-1.3.2.jar"
     },
     {
-      "path": "placeholder-api-2.8.2\u002B1.21.10.jar",
+      "path": "mods/placeholder-api-2.8.2\u002B1.21.10.jar",
       "hash": "bbdc920ecff993148cd6e81a208536132245ce40",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/placeholder-api-2.8.2\u002B1.21.10.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/placeholder-api-2.8.2\u002B1.21.10.jar"
     },
     {
-      "path": "PlayerAnimationLibFabric-1.1.6\u002Bmc.1.21.11.jar",
+      "path": "mods/PlayerAnimationLibFabric-1.1.6\u002Bmc.1.21.11.jar",
       "hash": "50fb6e9e24c70d0a28230384ef2e0034c6236ef2",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/PlayerAnimationLibFabric-1.1.6\u002Bmc.1.21.11.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/PlayerAnimationLibFabric-1.1.6\u002Bmc.1.21.11.jar"
     },
     {
-      "path": "polymer-bundled-0.15.2\u002B1.21.11.jar",
+      "path": "mods/polymer-bundled-0.15.2\u002B1.21.11.jar",
       "hash": "d6fb4141f437d565bd9a6a218c0742f28a0bc5ba",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/polymer-bundled-0.15.2\u002B1.21.11.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/polymer-bundled-0.15.2\u002B1.21.11.jar"
     },
     {
-      "path": "PresenceFootsteps-1.12.3\u002B1.21.11.jar",
+      "path": "mods/PresenceFootsteps-1.12.3\u002B1.21.11.jar",
       "hash": "56f9c5292679b22d908eb7da9753f13f0ea86f92",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/PresenceFootsteps-1.12.3\u002B1.21.11.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/PresenceFootsteps-1.12.3\u002B1.21.11.jar"
     },
     {
-      "path": "punchy-2.4.1-fabric-1.21.11.jar",
-      "hash": "1107cee5026836015a049f29eb1c255ac6a71eb6",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/punchy-2.4.1-fabric-1.21.11.jar"
+      "path": "mods/punchy-2.4.5-fabric-1.21.11.jar",
+      "hash": "affcde2a7fda27a28a68cc3cea30652e58529cfd",
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/punchy-2.4.5-fabric-1.21.11.jar"
     },
     {
-      "path": "reeses-sodium-options-fabric-2.0.3\u002Bmc1.21.11.jar",
+      "path": "mods/reeses-sodium-options-fabric-2.0.3\u002Bmc1.21.11.jar",
       "hash": "fb452b122fd72e8540d32fbe3df01cc34a45ce41",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/reeses-sodium-options-fabric-2.0.3\u002Bmc1.21.11.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/reeses-sodium-options-fabric-2.0.3\u002Bmc1.21.11.jar"
     },
     {
-      "path": "replaymod-1.21.11-2.6.25.jar",
+      "path": "mods/replaymod-1.21.11-2.6.25.jar",
       "hash": "84b694c231319c930a8ecd0af4fd19c1e2b63279",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/replaymod-1.21.11-2.6.25.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/replaymod-1.21.11-2.6.25.jar"
     },
     {
-      "path": "Resourcify (1.21.11-fabric)-1.8.0.jar",
-      "hash": "3c191f22bf74b2855454b97039dbeefbc9feea02",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/Resourcify (1.21.11-fabric)-1.8.0.jar"
+      "path": "mods/Resourcify (1.21.11-fabric)-1.8.1.jar",
+      "hash": "19ac4c4a2512d26da08fcc6a258343324a6dae0a",
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/Resourcify (1.21.11-fabric)-1.8.1.jar"
     },
     {
-      "path": "rightclickharvest-fabric-4.6.1\u002B1.21.11.jar",
+      "path": "mods/rightclickharvest-fabric-4.6.1\u002B1.21.11.jar",
       "hash": "cb615b809f6f4a101b884809c25f89843a46d5c7",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/rightclickharvest-fabric-4.6.1\u002B1.21.11.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/rightclickharvest-fabric-4.6.1\u002B1.21.11.jar"
     },
     {
-      "path": "seamlesssleep-fabric-1.21.11-2.5.2.jar",
-      "hash": "1df0cd5e607570ce72eb611994ee3abb4a3762bc",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/seamlesssleep-fabric-1.21.11-2.5.2.jar"
+      "path": "mods/seamlesssleep-fabric-1.21.11-2.6.2.jar",
+      "hash": "bd8fcd56c7278a9025caade50d30366604e9fcd5",
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/seamlesssleep-fabric-1.21.11-2.6.2.jar"
     },
     {
-      "path": "ShatterLib-FABRIC-0.6.0.8\u002B1.21.11.jar",
+      "path": "mods/ShatterLib-FABRIC-0.6.0.8\u002B1.21.11.jar",
       "hash": "2c591be8990702aca214ac19c922422fd6725b81",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/ShatterLib-FABRIC-0.6.0.8\u002B1.21.11.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/ShatterLib-FABRIC-0.6.0.8\u002B1.21.11.jar"
     },
     {
-      "path": "silk-all-1.11.5.jar",
+      "path": "mods/silk-all-1.11.5.jar",
       "hash": "49bf5e5a05dff1c072487e32082031bb02e47018",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/silk-all-1.11.5.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/silk-all-1.11.5.jar"
     },
     {
-      "path": "sit-1.21.11-29.jar",
+      "path": "mods/sit-1.21.11-29.jar",
       "hash": "8dbf98d40638a41d3306a1156f7afa7f5f7941a2",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/sit-1.21.11-29.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/sit-1.21.11-29.jar"
     },
     {
-      "path": "skinrestorer-2.7.0\u002B1.21.11-fabric.jar",
+      "path": "mods/skinrestorer-2.7.0\u002B1.21.11-fabric.jar",
       "hash": "f6e725c0c88f67fc1e4a00faaf19ef6e41dd72e3",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/skinrestorer-2.7.0\u002B1.21.11-fabric.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/skinrestorer-2.7.0\u002B1.21.11-fabric.jar"
     },
     {
-      "path": "skinshuffle-2.10.2\u002B1.21.11-fabric.jar",
+      "path": "mods/skinshuffle-2.10.2\u002B1.21.11-fabric.jar",
       "hash": "42e8fdb6665a2a1d9b763d4d53e3c86d6c332587",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/skinshuffle-2.10.2\u002B1.21.11-fabric.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/skinshuffle-2.10.2\u002B1.21.11-fabric.jar"
     },
     {
-      "path": "smoothscroll-2.6.5.jar",
+      "path": "mods/smoothscroll-2.6.5.jar",
       "hash": "4d2864f84059b93e45422923215e2fbecb5ef17f",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/smoothscroll-2.6.5.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/smoothscroll-2.6.5.jar"
     },
     {
-      "path": "smoothswapping-0.9.8-1.21.11-fabric.jar",
+      "path": "mods/smoothswapping-0.9.8-1.21.11-fabric.jar",
       "hash": "58fe0f6ad763003c97996a2243cc15750261ba1a",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/smoothswapping-0.9.8-1.21.11-fabric.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/smoothswapping-0.9.8-1.21.11-fabric.jar"
     },
     {
-      "path": "sodium-extra-fabric-0.8.3\u002Bmc1.21.11.jar",
+      "path": "mods/sodium-extra-fabric-0.8.3\u002Bmc1.21.11.jar",
       "hash": "e8fd1eae0d589393189f64062ca1e46fc03f4ced",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/sodium-extra-fabric-0.8.3\u002Bmc1.21.11.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/sodium-extra-fabric-0.8.3\u002Bmc1.21.11.jar"
     },
     {
-      "path": "sodium-fabric-0.8.6\u002Bmc1.21.11.jar",
-      "hash": "fa686304c63efea0456af91a0b6352f032e61e66",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/sodium-fabric-0.8.6\u002Bmc1.21.11.jar"
+      "path": "mods/sodium-fabric-0.8.7\u002Bmc1.21.11.jar",
+      "hash": "e8865210ba9a926fc206ab9e73f9d4988a81ff69",
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/sodium-fabric-0.8.7\u002Bmc1.21.11.jar"
     },
     {
-      "path": "Stellarity-5.3.0.jar",
+      "path": "mods/Stellarity-5.3.0.jar",
       "hash": "6b89e12e7f241d64a79eace06b4c9862ba051eda",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/Stellarity-5.3.0.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/Stellarity-5.3.0.jar"
     },
     {
-      "path": "strawberrylib-1.21.11-r4.jar",
+      "path": "mods/strawberrylib-1.21.11-r4.jar",
       "hash": "8109f871551d9b5daa06ab3c958d0517a227bef4",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/strawberrylib-1.21.11-r4.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/strawberrylib-1.21.11-r4.jar"
     },
     {
-      "path": "SubtleEffects-fabric-1.21.11-1.14.0.jar",
+      "path": "mods/SubtleEffects-fabric-1.21.11-1.14.0.jar",
       "hash": "76e426ca0c5638b78146e313f700b6848ff0aeae",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/SubtleEffects-fabric-1.21.11-1.14.0.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/SubtleEffects-fabric-1.21.11-1.14.0.jar"
     },
     {
-      "path": "tcdcommons-5.0.0\u002Bfabric-1.21.11.jar",
-      "hash": "4624f3c4eaec8e7beceb4e530e885a8456776ee7",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/tcdcommons-5.0.0\u002Bfabric-1.21.11.jar"
+      "path": "mods/tcdcommons-5.1.0\u002Bfabric-1.21.11.jar",
+      "hash": "c8acc1e0b48af47a98a13602719574e9793fb495",
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/tcdcommons-5.1.0\u002Bfabric-1.21.11.jar"
     },
     {
-      "path": "TerraBlender-fabric-1.21.11-21.11.0.0.jar",
+      "path": "mods/TerraBlender-fabric-1.21.11-21.11.0.0.jar",
       "hash": "e4bd1aee6bc8c56ae77647a06f31a3bd981962a6",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/TerraBlender-fabric-1.21.11-21.11.0.0.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/TerraBlender-fabric-1.21.11-21.11.0.0.jar"
     },
     {
-      "path": "timelesslib-1.0.20-fabric-1.20.5-1.21.10.jar",
+      "path": "mods/timelesslib-1.0.20-fabric-1.20.5-1.21.10.jar",
       "hash": "1e7f88714459bc0cda005d8918ba7ecadc708f24",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/timelesslib-1.0.20-fabric-1.20.5-1.21.10.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/timelesslib-1.0.20-fabric-1.20.5-1.21.10.jar"
     },
     {
-      "path": "TorchBowMod-Fabric-1.21.11-v1.1.0.jar",
-      "hash": "fd9d0dcfef6845300717000c11c669461759bfa8",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/TorchBowMod-Fabric-1.21.11-v1.1.0.jar"
-    },
-    {
-      "path": "trade-cycling-fabric-1.21.11-1.0.20.jar",
+      "path": "mods/trade-cycling-fabric-1.21.11-1.0.20.jar",
       "hash": "18e2200e622c9c76fa54d37113de2b16f175d195",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/trade-cycling-fabric-1.21.11-1.0.20.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/trade-cycling-fabric-1.21.11-1.0.20.jar"
     },
     {
-      "path": "t_and_t-fabric-neoforge-1.13.8.jar",
-      "hash": "101583aeea0b225828da7002df5d75f1ad844f8a",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/t_and_t-fabric-neoforge-1.13.8.jar"
+      "path": "mods/t_and_t-fabric-neoforge-1.13.9.jar",
+      "hash": "8e3bfd88661311dcdde93b5bcb03ce919ad4ef1c",
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/t_and_t-fabric-neoforge-1.13.9.jar"
     },
     {
-      "path": "vanilla-refresh-1.4.29.jar",
-      "hash": "ca1a2fea6859ef8b4cad2c456793baf830a55d16",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/vanilla-refresh-1.4.29.jar"
+      "path": "mods/vanilla-refresh-1.4.30.jar",
+      "hash": "ee447bae5d45ececbcd4b4f019b4f0cb169e5e2e",
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/vanilla-refresh-1.4.30.jar"
     },
     {
-      "path": "veinminer-client-2.5.2.jar",
-      "hash": "8327ab3e50590652cfe23ce516f74b9b32783526",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/veinminer-client-2.5.2.jar"
+      "path": "mods/veinminer-client-2.6.0.jar",
+      "hash": "b0cf7a0c146e24166f7c7906e947ffa295666a57",
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/veinminer-client-2.6.0.jar"
     },
     {
-      "path": "veinminer-fabric-2.5.2.jar",
-      "hash": "5bb75e9a736076389ead01a0737e639358a6098f",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/veinminer-fabric-2.5.2.jar"
+      "path": "mods/veinminer-fabric-2.6.0.jar",
+      "hash": "310a645ba625faa72231a41385c808d5932a6625",
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/veinminer-fabric-2.6.0.jar"
     },
     {
-      "path": "villager-guards-v1.1.7.jar",
+      "path": "mods/villager-guards-v1.1.7.jar.disabled",
       "hash": "b4c97d4cf9c360acbd5f323dace5f8f823a96863",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/villager-guards-v1.1.7.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/villager-guards-v1.1.7.jar.disabled"
     },
     {
-      "path": "voicechat-fabric-1.21.11-2.6.12.jar",
-      "hash": "28d5556d892eafcbf8da6dab7284879b61aeb1b4",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/voicechat-fabric-1.21.11-2.6.12.jar"
+      "path": "mods/voicechat-fabric-1.21.11-2.6.15.jar",
+      "hash": "094377c02b2b14b14a62086898f03bd57de9354c",
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/voicechat-fabric-1.21.11-2.6.15.jar"
     },
     {
-      "path": "voxy-0.2.12-alpha.jar",
-      "hash": "bba31771b2d8bfeedbc01c70a93ede44186c56d1",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/voxy-0.2.12-alpha.jar"
+      "path": "mods/voxy-0.2.13-alpha.jar",
+      "hash": "ee8b260ef01a02f699795e31bfa1d398473f106f",
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/voxy-0.2.13-alpha.jar"
     },
     {
-      "path": "xaerominimap-fabric-1.21.11-25.3.10.jar",
+      "path": "mods/xaerominimap-fabric-1.21.11-25.3.10.jar",
       "hash": "4cb5a1d9121f7b1cd03fd17e901c002ba9cac62b",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/xaerominimap-fabric-1.21.11-25.3.10.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/xaerominimap-fabric-1.21.11-25.3.10.jar"
     },
     {
-      "path": "xaeroworldmap-fabric-1.21.11-1.40.11.jar",
+      "path": "mods/xaeroworldmap-fabric-1.21.11-1.40.11.jar",
       "hash": "ff88b8f04532202d2dcc7d4919bae648b1d7fbe8",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/xaeroworldmap-fabric-1.21.11-1.40.11.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/xaeroworldmap-fabric-1.21.11-1.40.11.jar"
     },
     {
-      "path": "yet_another_config_lib_v3-3.8.2\u002B1.21.11-fabric.jar",
+      "path": "mods/yet_another_config_lib_v3-3.8.2\u002B1.21.11-fabric.jar",
       "hash": "f99cda70903f16dd6927a276150b2762b4d5ab66",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/yet_another_config_lib_v3-3.8.2\u002B1.21.11-fabric.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/yet_another_config_lib_v3-3.8.2\u002B1.21.11-fabric.jar"
     },
     {
-      "path": "zfastnoise-1.0.25\u002B1.21.11.jar",
-      "hash": "71d9a9609f79f88a682c12ca29129079668e3954",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/zfastnoise-1.0.25\u002B1.21.11.jar"
+      "path": "mods/zfastnoise-1.0.27\u002B1.21.11.jar",
+      "hash": "d8563750152c2437ea905e1ab36dcd16c737e4cb",
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/zfastnoise-1.0.27\u002B1.21.11.jar"
     },
     {
-      "path": "zipline-1.2.2\u002B1.21.11.jar",
-      "hash": "3c786ff369e0ecd4dcef425415ab228cee76f2ae",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/zipline-1.2.2\u002B1.21.11.jar"
-    },
-    {
-      "path": "zoomify-2.15.2\u002B1.21.11.jar",
+      "path": "mods/zoomify-2.15.2\u002B1.21.11.jar",
       "hash": "e1f738a9026e9f087d96861935f994b010b8131a",
-      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/zoomify-2.15.2\u002B1.21.11.jar"
+      "url": "https://raw.githubusercontent.com/SUSCookie12/vclass-mods/main/contents/mods/zoomify-2.15.2\u002B1.21.11.jar"
     }
   ]
 }
